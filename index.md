@@ -62,7 +62,7 @@ Bienvenue dans mon espace technique. Je combine les mathématiques décisionnell
 
 ---
 
-## 🛠️ Stack Technique résumé
+##  Stack Technique résumé
 - **Maths & RO :** Excel Solver, PuLP, Simplexe, Méthode Hongroise.
 - **Data Science :** Python (XGBoost, KNN, Pandas, Matplotlib).
 - **Mobile & Web3 :** React Native (Expo Go), MetaMask, Smart Contracts.

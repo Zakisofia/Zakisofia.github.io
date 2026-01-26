@@ -38,11 +38,13 @@ Bienvenue dans mon espace technique. Je combine les mathématiques décisionnell
 ### 2. Gestion Bibliothèque & KNN
 - **Projet :** Système de recommandation ou classification basé sur l'algorithme KNN.
 - **Preuve technique :** Utilisation de Scikit-Learn et gestion de base de données.
-- **Visualisation :** ![Bibliothèque KNN](<img width="1858" height="874" alt="image" src="https://github.com/user-attachments/assets/f66755c7-93a3-4b36-8e90-705776942a37" />
+- **Visualisation :** ![Bibliothèque KNN]<img width="1858" height="874" alt="image" src="https://github.com/user-attachments/assets/f66755c7-93a3-4b36-8e90-705776942a37" />
 <img width="1868" height="842" alt="image" src="https://github.com/user-attachments/assets/2dcd87a1-4a90-46b7-84c7-ba9d24fb0ec4" />
 <img width="1858" height="857" alt="image" src="https://github.com/user-attachments/assets/f635504d-957e-4bd9-8c00-52158d703b4d" />
 <img width="1860" height="852" alt="image" src="https://github.com/user-attachments/assets/bd5ba66d-fc10-4740-bd0b-48305d17cecb" />
-<img width="1871" height="878" alt="image" src="https://github.com/user-attachments/assets/fb9f96f5-4d81-4a3a-a7d5-3ff9f491749f" />)
+<img width="1871" height="878" alt="image" src="https://github.com/user-attachments/assets/fb9f96f5-4d81-4a3a-a7d5-3ff9f491749f" />
+
+
 - [ Voir le dépôt KNN](https://github.com/Zakisofia/gestion-bibliotheque-knn)
 
 ### 3. Mushroom Safety Pipeline (XGBoost)

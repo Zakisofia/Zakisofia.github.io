@@ -13,13 +13,18 @@ Bienvenue dans mon espace technique. Je combine les mathématiques décisionnell
 - Objectif : Allouer les talents aux postes stratégiques au coût le plus bas possible.
 - [Lien vers le dépôt](https://github.com/Zakisofia/HR-Talent-Allocation-Minimizing-Recruitment-Costs-using-Excel-Solver)
 
-### 2. Supply Chain & Transport Multiniveaux
-- Projets : Supply-Chain-Optimization & Problème-de-Transport-Multiniveaux.
-- Objectif : Modélisation de flux logistiques complexes entre usines et entrepôts pour réduire les frais de port.
-- Résultat : Coût optimal identifié à 3 200 DH via Excel Solver.
+### 2. Supply Chain Optimization
+- Projet : Optimisation de la chaîne d'approvisionnement globale.
+- Objectif : Gestion des stocks et flux de marchandises pour maximiser l'efficacité du réseau.
 - [Lien vers le dépôt Supply Chain](https://github.com/Zakisofia/Supply-Chain-Optimization)
 
-### 3. Production Optimizer
+### 3. Problème de Transport Multiniveaux
+- Projet : Optimisation de distribution à plusieurs échelons (Usines vers Entrepôts vers Clients).
+- Objectif : Modélisation mathématique pour réduire les frais de port sur un réseau complexe.
+- Résultat : Coût optimal identifié à 3 200 DH via Excel Solver.
+- [Lien vers le dépôt Transport](https://github.com/Zakisofia/Probl-me-de-Transport-Multiniveaux)
+
+### 4. Production Optimizer
 - Projet : Planification de production menuiserie.
 - Résultat : Mix produit optimal (Tables/Chaises) générant un profit de 17 000 DH.
 - [Lien vers le dépôt](https://github.com/Zakisofia/Production-Optimizer)

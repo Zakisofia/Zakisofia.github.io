@@ -31,8 +31,8 @@ Bienvenue dans mon espace technique. Je combine les mathématiques décisionnell
 
 ### 1. ImmoChain IA (Meknès)
 - **Concept :** Intégration d'un module de prédiction de prix immobiliers via **XGBoost**.
-- **Visualisation :** ![App Expo Go](<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/2466fdc3-9531-4a32-a338-4b4735b93035" />
-)
+- **Visualisation :** ![App Expo Go]<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/8ef8dc67-0999-4c17-a5a2-e47a507f0a40" />
+
 - [ Voir le projet ImmoChain](https://github.com/Zakisofia/ImmoChain)
 
 ### 2. Gestion Bibliothèque & KNN

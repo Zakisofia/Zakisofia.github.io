@@ -11,18 +11,18 @@ Bienvenue dans mon espace technique. Je combine les mathématiques décisionnell
 ### 1. HR Talent Allocation & Recruitment
 - **Projet :** Minimizing Recruitment Costs using Excel Solver.
 - **Objectif :** Allouer les talents aux postes stratégiques au coût le plus bas possible.
-- [ Voir le dépôt](https://github.com/Zakisofia/HR-Talent-Allocation)
+- [ Voir le dépôt](https://github.com/Zakisofia/HR-Talent-Allocation-Minimizing-Recruitment-Costs-using-Excel-Solver)
 
 ### 2. Supply Chain & Transport Multiniveaux
 - **Projets :** Supply-Chain-Optimization & Problème-de-Transport-Multiniveaux.
 - **Objectif :** Modélisation de flux logistiques complexes entre usines et entrepôts pour réduire les frais de port.
 - **Résultat :** Coût optimal identifié à 3 200 DH via Excel Solver.
-- [ Voir le dépôt Supply Chain](https://github.com/votre-pseudo/Supply-Chain-Optimization)
+- [ Voir le dépôt Supply Chain](https://github.com/Zakisofia/Supply-Chain-Optimization)
 
 ### 3. Production Optimizer
 - **Projet :** Planification de production menuiserie.
 - **Résultat :** Mix produit optimal (Tables/Chaises) générant un profit de 17 000 DH.
-- [ Voir le dépôt](https://github.com/votre-pseudo/Production-Optimizer)
+- [ Voir le dépôt](https://github.com/Zakisofia/Production-Optimizer)
 
 ---
 
@@ -31,19 +31,21 @@ Bienvenue dans mon espace technique. Je combine les mathématiques décisionnell
 
 ### 1. ImmoChain IA (Meknès)
 - **Concept :** Intégration d'un module de prédiction de prix immobiliers via **XGBoost**.
-- **Visualisation :** ![App Expo Go](./app-immochain.png)
-- [ Voir le projet ImmoChain](https://github.com/votre-pseudo/ImmoChain)
+- **Visualisation :** ![App Expo Go](<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/2466fdc3-9531-4a32-a338-4b4735b93035" />
+)
+- [ Voir le projet ImmoChain](https://github.com/Zakisofia/ImmoChain)
 
 ### 2. Gestion Bibliothèque & KNN
 - **Projet :** Système de recommandation ou classification basé sur l'algorithme KNN.
 - **Preuve technique :** Utilisation de Scikit-Learn et gestion de base de données.
 - **Visualisation :** ![Bibliothèque KNN](./resultat-ia.png)
-- [ Voir le dépôt KNN](https://github.com/votre-pseudo/gestion-bibliotheque-knn)
+- [ Voir le dépôt KNN](https://github.com/Zakisofia/gestion-bibliotheque-knn)
 
 ### 3. Mushroom Safety Pipeline (XGBoost)
-- **Objectif :** Classification de toxicité avec une précision critique de 100%.
+- **Objectif :** Classification de toxicité avec une précision critique de 99%.
 - **Méthode :** Pipeline hybride incluant le Clustering K-Means pour la validation.
-
+- **Résultat :** 
+- [ Voir le dépôt](https://github.com/Zakisofia/Mushroom-Toxicity-Classification-Advanced-ML-Pipeline)
 ---
 
 ##  Expertise : UI/UX Design & Web3

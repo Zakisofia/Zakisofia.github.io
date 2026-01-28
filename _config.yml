@@ -1,1 +1,11 @@
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+title: Portfolio - Zakisofia
+description: Consultant en Solutions Intelligentes | IA | Optimisation | Web3
+remote_theme: pages-themes/cayman@v0.2.0
+
+# Paramètres du thème
+show_downloads: false # On cache les boutons de téléchargement car ton code est privé
+google_analytics: # Ajoute ton ID si tu en as un
+
+# Informations de build
+encoding: UTF-8
+markdown: kramdown

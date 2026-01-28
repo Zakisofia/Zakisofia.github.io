@@ -1,13 +1,4 @@
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "dark"
-
-title: "Zakisofia Portfolio"
-description: "Expert en IA et Optimisation"
-markdown: kramdown
-
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "single"
+title: "Portfolio Professionnel | Zakisofia"
+description: "Expert en IA, Optimisation & Web3"
+theme: jekyll-theme-hacker
+show_downloads: false

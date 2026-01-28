@@ -1,44 +1,56 @@
-#  Portfolio Professionnel
-## Consultant en Solutions Intelligentes
+# Portfolio Professionnel
+## Expertise en Optimisation & Intelligence Artificielle
 
-Bienvenue. Je combine mathématiques décisionnelles, ML et Web3 pour résoudre des problèmes complexes.
+![Expertise Banner](https://images.unsplash.com/photo-1550751827-4bd374c3f58b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80)
+*Transformer les données complexes en décisions stratégiques.*
 
 ---
 
-##  Expertise : Recherche Opérationnelle
-*Solutions mathématiques pour maximiser le profit.*
+## 📊 Recherche Opérationnelle & Optimisation
+*Maximiser l'efficacité opérationnelle par la modélisation mathématique.*
 
-| Projet | Objectif | Statut |
+| Projet | Objectif Stratégique | Statut Accès |
 | :--- | :--- | :--- |
-| **HR Talent Allocation** | Optimisation des coûts de recrutement | 🔒 Privé |
-| **Supply Chain Opti.** | Flux de marchandises & Stocks | 🔒 Privé |
-| **Transport Multi.** | Réduction frais de port (Cout: 3200 DH) | 🔒 Privé |
-| **Production Optimizer** | Profit généré : 17 000 DH | 🔒 Privé |
+| **HR Talent Allocation** | Minimisation des coûts de recrutement | 🔐 Propriétaire |
+| **Supply Chain Optimizer** | Flux logistiques & Gestion des stocks | 🔐 Propriétaire |
+| **Multi-Level Transport** | Réduction des frais de port (Cout: 3200 DH) | 🔐 Propriétaire |
+| **Production Optimizer** | Planification de mix-produit (Profit: 17k DH) | 🔐 Propriétaire |
 
 ---
 
-##  Expertise : Intelligence Artificielle & Data
+## 🤖 Intelligence Artificielle & Data Science
+*Modèles prédictifs et analyse de données structurées.*
 
-### ImmoChain IA (Meknès)
-> **Prédiction immobilière via XGBoost.**
-<br><img width="400" alt="App ImmoChain" src="https://github.com/user-attachments/assets/8ef8dc67-0999-4c17-a5a2-e47a507f0a40" style="border-radius: 10px; border: 1px solid #333;" />
+### 🏠 ImmoChain IA (Meknès)
+**Module de prédiction immobilière via XGBoost**
+Ce projet intègre des algorithmes d'apprentissage supervisé pour estimer la valeur des biens immobiliers au Maroc.
+<br><img width="500" src="https://github.com/user-attachments/assets/8ef8dc67-0999-4c17-a5a2-e47a507f0a40" style="border-radius: 10px; border: 1px solid #eee;" />
 
-### Gestion Bibliothèque & KNN
+---
+
+### 📚 Gestion Bibliothèque & KNN
+**Système de classification et recommandation**
+Utilisation de Scikit-Learn pour la gestion intelligente de bases de données.
 <p align="left">
-  <img width="300" src="https://github.com/user-attachments/assets/f66755c7-93a3-4b36-8e90-705776942a37" />
-  <img width="300" src="https://github.com/user-attachments/assets/2dcd87a1-4a90-46b7-84c7-ba9d24fb0ec4" />
+  <img width="450" src="https://github.com/user-attachments/assets/f66755c7-93a3-4b36-8e90-705776942a37" style="border-radius: 5px;" />
 </p>
 
 ---
 
-##  Expertise : Web3 & Design
-### ImmoChain : Prototypage & Blockchain
-- **Innovation :** Scores de confiance agents immuables sur **Polygon**.
-- **UI/UX :** Architecture complète de 13 pages et flux MetaMask.
+## 🌐 Web3 & Prototypage Mobile
+*Sécurisation des transactions et interfaces modernes.*
+
+* **Blockchain :** Mise en place de scores de confiance immuables sur le réseau **Polygon**.
+* **UI/UX :** Conception de l'architecture mobile complète sous React Native (13 pages).
+
+![Tech Visualization](https://images.unsplash.com/photo-1639762681485-074b7f938ba0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80)
 
 ---
 
-##  Stack Technique
-- **Maths :** Excel Solver, PuLP, Simplexe.
-- **Data :** Python (XGBoost, KNN, Pandas).
-- **Web3/Mobile :** React Native, Smart Contracts.
+## ⚙️ Stack Technique Résumé
+* **Analyse & IA :** Python (XGBoost, KNN, Pandas, Matplotlib).
+* **Optimisation :** Excel Solver, PuLP, Simplexe, Méthode Hongroise.
+* **Développement :** React Native (Expo Go), MetaMask, Smart Contracts.
+
+---
+> **Note sur la confidentialité :** Pour protéger la propriété intellectuelle, les dépôts correspondants sont configurés en mode **Privé**. Pour toute demande de démonstration ou de revue de code, veuillez me contacter directement.

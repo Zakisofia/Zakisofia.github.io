@@ -1,7 +1,7 @@
 # Portfolio Professionnel
-## Expertise en Optimisation & Intelligence Artificielle
+## Intelligence Artificielle & Recherche Opérationnelle
 
-Bienvenue dans mon espace technique. Spécialisé en **Recherche Opérationnelle** et **Machine Learning**, je conçois des solutions mathématiques pour transformer des données complexes en leviers de décision stratégiques.
+Expert en mathématiques décisionnelles, j'accompagne les organisations dans la résolution de problèmes complexes par l'optimisation des ressources et l'analyse prédictive.
 
 ---
 
@@ -10,59 +10,54 @@ Bienvenue dans mon espace technique. Spécialisé en **Recherche Opérationnelle
 
 | Projet | Objectif Stratégique | Indicateur de Performance |
 | :--- | :--- | :--- |
-| **HR Talent Allocation** | Minimisation des coûts de recrutement | Affectation optimale des ressources |
-| **Supply Chain Optimizer** | Flux logistiques & Gestion des stocks | Réduction des ruptures de stock |
-| **Multi-Level Transport** | Optimisation de distribution multi-échelons | Réduction des frais de port (Cout: 3200 DH) |
-| **Production Optimizer** | Planification de mix-produit | Maximisation du profit (17k DH) |
+| **Allocation RH** | Optimisation des coûts de recrutement | Affectation optimale des talents |
+| **Supply Chain** | Flux logistiques & Gestion des stocks | Réduction des ruptures de stock |
+| **Transport** | Optimisation multi-échelons | Réduction des frais de port (3200 DH) |
+| **Production** | Planification de mix-produit | Maximisation du profit (17k DH) |
 
-### Résultats de Modélisation
-*Aperçu des solutions obtenues via Excel Solver et outils de RO.*
+### Résultats de Modélisation (Solver & Graphiques)
 <p align="center">
-  <img src="https://via.placeholder.com/600x300?text=Resultats+Optimisation+RO" width="80%" style="border: 1px solid #ddd; border-radius: 4px;" />
+  <img src="https://via.placeholder.com/800x400?text=Insérer+Capture+Excel+Solver+Ici" width="100%" style="border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <br><em>Visualisation des flux logistiques et résultats de l'optimisation mathématique.</em>
 </p>
 
 ---
 
-## Intelligence Artificielle & Data Science
-*Apprentissage automatique et analyse prédictive.*
+## Intelligence Artificielle & Machine Learning
+*Modélisation prédictive et traitement de données.*
 
 ### ImmoChain IA
-**Module de prédiction immobilière (XGBoost)**
-Estimation de la valeur des biens basée sur des variables structurelles et géographiques.
+Estimation de la valeur immobilière basée sur des algorithmes **XGBoost**. Le modèle analyse les variables pour fournir une prédiction de prix fiable intégrée dans une interface mobile.
 
-**Visualisation des performances du modèle :**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8ef8dc67-0999-4c17-a5a2-e47a507f0a40" width="450" style="border-radius: 8px;" />
+  <img src="https://github.com/user-attachments/assets/8ef8dc67-0999-4c17-a5a2-e47a507f0a40" width="450" style="border-radius: 12px; border: 1px solid #eee; box-shadow: 0 10px 20px rgba(0,0,0,0.1);" />
 </p>
 
 ---
 
-### Classification & Recommandation
-**Algorithmes de clustering et classification (KNN)**
-Segmentation de données et systèmes de recommandation intelligents.
+### Systèmes de Classification & KNN
+Développement de moteurs de recommandation et de segmentation de données.
 
-**Interface et Graphiques de données :**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f66755c7-93a3-4b36-8e90-705776942a37" width="400" />
+  <img src="https://github.com/user-attachments/assets/f66755c7-93a3-4b36-8e90-705776942a37" width="500" style="border-radius: 8px;" />
 </p>
 
 ---
 
-## Web3 & Prototypage Mobile
-*Architecture décentralisée et interfaces utilisateurs.*
+## Architecture Web3 & Mobile
+Conception d'écosystèmes sécurisés et d'interfaces modernes.
 
-* **Blockchain :** Mise en œuvre de scores de confiance immuables sur le réseau Polygon.
-* **Mobile :** Développement d'une architecture UI/UX complète sous React Native.
+* **Blockchain :** Mise en œuvre de scores de confiance sur le réseau **Polygon**.
+* **Développement :** Prototypage UI/UX complet sous **React Native** (13 écrans fonctionnels).
 
-**Aperçu du Prototype :**
 <p align="center">
-  <img src="https://via.placeholder.com/400x200?text=Capture+Interface+Mobile" width="50%" />
+  <img src="https://via.placeholder.com/600x300?text=Insérer+Capture+Interface+Mobile+Ici" width="70%" style="border-radius: 10px;" />
 </p>
 
 ---
 
 ## Stack Technique
-* **Analyse :** Python (XGBoost, Scikit-Learn, Pandas).
+* **Analytique :** Python (XGBoost, Scikit-Learn, Pandas).
 * **Optimisation :** Excel Solver, PuLP, Simplexe.
 * **Architecture :** React Native, Solidity, MetaMask.
 

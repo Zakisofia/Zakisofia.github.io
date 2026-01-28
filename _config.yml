@@ -1,11 +1,30 @@
-title: Portfolio - Zakisofia
-description: Consultant en Solutions Intelligentes | IA | Optimisation | Web3
-remote_theme: pages-themes/cayman@v0.2.0
+title: "Portfolio Professionnel"
+name: "Zakisofia"
+description: "Consultant en Solutions Intelligentes | IA | Optimisation | Web3"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
-# Paramètres du thème
-show_downloads: false # On cache les boutons de téléchargement car ton code est privé
-google_analytics: # Ajoute ton ID si tu en as un
+# Configuration du look (Mode Sombre Pro)
+minimal_mistakes_skin: "dark" 
 
-# Informations de build
-encoding: UTF-8
+# Paramètres de construction
+encoding: "utf-8"
 markdown: kramdown
+highlighter: rouge
+
+# Pour que l'image de profil et les infos s'affichent à gauche (comme sur l'image)
+author:
+  name: "Zakisofia"
+  bio: "IA, Recherche Opérationnelle & Web3"
+  location: "Maroc"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Zakisofia"
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+      author_profile: true # Affiche la barre latérale pro

@@ -1,25 +1,9 @@
-title: "Portfolio Professionnel"
-name: "Zakisofia"
-description: "Consultant en Solutions Intelligentes | IA | Optimisation | Web3"
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-
-# Configuration du look (Mode Sombre Pro)
-minimal_mistakes_skin: "dark" 
-
-# Paramètres de construction
-encoding: "utf-8"
+minimal_mistakes_skin: "dark"
+title: "Portfolio Zakisofia"
+description: "Expert en IA et Optimisation"
 markdown: kramdown
 highlighter: rouge
-
-# Pour que l'image de profil et les infos s'affichent à gauche (comme sur l'image)
-author:
-  name: "Zakisofia"
-  bio: "IA, Recherche Opérationnelle & Web3"
-  location: "Maroc"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Zakisofia"
 
 defaults:
   - scope:
@@ -27,4 +11,4 @@ defaults:
       type: "pages"
     values:
       layout: "single"
-      author_profile: true # Affiche la barre latérale pro
+      author_profile: true

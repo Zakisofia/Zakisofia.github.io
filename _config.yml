@@ -1,5 +1,6 @@
-title: "Safia Zaki"
-description: "Étudiante en Systèmes Intelligents & Recherche Opérationnelle"
-theme: jekyll-theme-merlot
+title: Safia Zaki
+description: Étudiante en Systèmes Intelligents & Recherche Opérationnelle
+theme: jekyll-theme-minimal # Un style épuré et très professionnel
+logo: https://github.com/zakisofia.png # Utilise votre photo de profil GitHub
 show_downloads: false
-
+google_analytics: # Optionnel : ID de suivi si vous en avez un

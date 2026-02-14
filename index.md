@@ -1,35 +1,43 @@
-# Portfolio Académique
-## Intelligence Artificielle & Recherche Opérationnelle
+# Zakisofia
+### Étudiante en Systèmes Intelligents & Recherche Opérationnelle  
+*Parcours d’excellence – IA, Optimisation & Aide à la décision*
 
-Étudiante en **Systèmes Intelligents et Recherche Opérationnelle**, inscrite dans un **parcours d’excellence**, je développe des projets académiques et exploratoires autour de l’**optimisation**, de l’**aide à la décision** et de l’**intelligence artificielle**.
-
-Ce portfolio présente les **domaines de mes études** ainsi que des **projets appliqués** réalisés dans un cadre académique et personnel.
+🔗 [GitHub](https://github.com/zakisofia) | [LinkedIn](https://linkedin.com/) | [Portfolio](https://zakisofia.github.io)
 
 ---
 
-## Recherche Opérationnelle & Optimisation
+## 👩‍🎓 À propos
+
+Étudiante en **Systèmes Intelligents et Recherche Opérationnelle**, je développe des projets académiques et personnels autour de la  
+**modélisation mathématique**, de l’**intelligence artificielle** et de l’**optimisation des ressources**.
+
+Ce portfolio présente mes **domaines d’études** ainsi que des **projets appliqués**, illustrant mon intérêt pour l’aide à la décision et les systèmes intelligents.
+
+---
+
+## 🧠 Recherche Opérationnelle & Optimisation
 *Modélisation mathématique pour l’aide à la décision et l’efficacité opérationnelle.*
 
 | Projet | Objectif académique | Résultat obtenu |
 | :--- | :--- | :--- |
-| **Allocation RH** | Optimisation de l’affectation des ressources | Solution optimale d’allocation |
+| **Allocation RH** | Optimisation de l’affectation des ressources | Solution optimale |
 | **Supply Chain** | Gestion des flux et des stocks | Réduction des ruptures |
-| **Transport** | Optimisation multi-échelons | Diminution des coûts logistiques |
+| **Transport** | Optimisation multi-échelons | Diminution des coûts |
 | **Production** | Planification du mix-produit | Maximisation du profit |
 
-### Résultats de modélisation (Solver & Graphiques)
+### 📊 Résultats de modélisation
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Insérer+Capture+Excel+Solver+Ici" width="100%" />
-  <br><em>Résultats issus de modèles d’optimisation mathématique.</em>
+  <img src="images/solver_results.png" width="85%" />
+  <br><em>Résultats issus de modèles d’optimisation (Excel Solver).</em>
 </p>
 
 ---
 
-## Intelligence Artificielle & Machine Learning
+## 🤖 Intelligence Artificielle & Machine Learning
 *Apprentissage automatique et analyse de données.*
 
-### ImmoChain – Module IA
-Projet académique portant sur l’**estimation de la valeur immobilière** à l’aide de modèles de **Machine Learning (XGBoost)**.  
+### 🏠 ImmoChain – Module IA
+Projet académique dédié à l’**estimation de la valeur immobilière** à l’aide de modèles de **Machine Learning (XGBoost)**.  
 Le système analyse différentes variables afin de produire des **prédictions fiables**, intégrées dans une interface applicative.
 
 <p align="center">
@@ -38,8 +46,9 @@ Le système analyse différentes variables afin de produire des **prédictions f
 
 ---
 
-### Systèmes de Classification & KNN
-Développement de **systèmes de classification et de recommandation**, basés sur l’algorithme **K-Nearest Neighbors (KNN)**, appliqués à des jeux de données réels.
+### 📚 Systèmes de Classification & KNN
+Développement de **systèmes de classification et de recommandation**, basés sur l’algorithme  
+**K-Nearest Neighbors (KNN)**, appliqués à des jeux de données réels.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f66755c7-93a3-4b36-8e90-705776942a37" width="500" />
@@ -47,25 +56,32 @@ Développement de **systèmes de classification et de recommandation**, basés s
 
 ---
 
-## Architecture Web & Mobile
+## 🌐 Architecture Web & Mobile
 *Découverte des technologies modernes et des architectures applicatives.*
 
-- **Blockchain :** Exploration de mécanismes de confiance et de traçabilité.
-- **Mobile :** Prototypage UI/UX sous **React Native** (plusieurs écrans fonctionnels).
+- **Web :** Interfaces modernes et responsives  
+- **Mobile :** Prototypage UI/UX sous **React Native** (plusieurs écrans fonctionnels)  
+- **Blockchain :** Exploration de mécanismes de confiance et de traçabilité
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x300?text=Interface+Mobile" width="70%" />
+  <img src="images/mobile_ui.png" width="70%" />
 </p>
 
 ---
 
-## Stack Technique
+## 🛠️ Stack Technique
+
 - **Data & IA :** Python, Scikit-learn, XGBoost, Pandas  
 - **Optimisation :** Excel Solver, PuLP, Méthode du simplexe  
-- **Développement :** React Native, notions de Blockchain
+- **Développement :** React Native, notions de Blockchain  
 
 ---
 
-> 📫 **Contact**  
-> Portfolio académique ouvert aux **stages**, **projets universitaires** et **collaborations pédagogiques**.
+## 📫 Contact & Opportunités
 
+Portfolio académique ouvert aux **stages**, **projets universitaires** et  
+**collaborations pédagogiques**.
+
+📧 Contact via GitHub ou LinkedIn
+Linkedin: https://www.linkedin.com/in/safia-zaki-373846209/
+GitHub: https://github.com/Zakisofia

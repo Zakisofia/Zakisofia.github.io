@@ -1,64 +1,75 @@
-[# Safia Zaki
-###  Étudiante en Systèmes Intelligents & Recherche Opérationnelle
-*Spécialisée en IA, Optimisation & Aide à la décision*
+# Safia Zaki
+### 🎓 Étudiante en Systèmes Intelligents & Recherche Opérationnelle
+*Spécialisée en IA, Optimisation & Technologies Web3*
 
-[📧 Me contacter](mailto:Zakisofia29@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/safia-zaki-373846209/) | [🐙 GitHub](https://github.com/zakisofia)
-
----
-
-## 👩‍🎓 À propos
-Étudiante passionnée par la **modélisation mathématique** et l’**intelligence artificielle**. Je conçois des solutions pour transformer des données complexes en décisions stratégiques via l'optimisation et le Machine Learning.
+[🔗 LinkedIn](https://www.linkedin.com/in/safia-zaki-373846209/) | [🐙 GitHub](https://github.com/zakisofia) | [📧 Email](mailto:zakisofia29@gmail.com)
 
 ---
 
-##  Recherche Opérationnelle & Optimisation
-*Efficacité opérationnelle et modélisation mathématique.*
-
-| Domaine | Application | Impact |
-| :--- | :--- | :--- |
-| **RH** | Allocation des ressources | Optimisation des plannings |
-| **Supply Chain** | Gestion des flux | Réduction des coûts logistiques |
-| **Transport** | Logistique multi-échelons | Efficacité énergétique & temps |
-| **Production** | Mix-produit | Maximisation du profit (Simplexe) |
-
->  *Modélisation réalisée avec Excel Solver, PuLP et méthodes analytiques.*
+## 👩‍🎓 Profil
+Passionnée par l'intersection entre les **mathématiques décisionnelles** et le **développement technologique**, je crée des solutions intelligentes pour résoudre des problèmes complexes d'optimisation et de transparence de données.
 
 ---
 
-##  Intelligence Artificielle & Projets Web3
+## 🚀 Projets Majeurs
 
-###  Homio (ex-ImmoChain) — IA & Blockchain
-Système intelligent d'estimation immobilière à Meknès utilisant **XGBoost**.
-* **IA** : Prédiction de prix basée sur les variables du marché local.
-* **Blockchain** : Sécurisation des scores d'agents et authentification des visites via protocoles on-chain.
+### 🏠 Homio (ex-ImmoChain)
+**Solution Immobilière Sécurisée (IA & Blockchain)**
+Plateforme innovante dédiée au marché de Meknès visant à restaurer la confiance entre agents et acheteurs.
+- **Intelligence Artificielle** : Intégration d'un modèle **XGBoost** pour prédire le prix réel du marché au m² selon le quartier.
+- **Blockchain (Polygon)** : Implémentation de scores d'agents immuables et d'un système de validation de visites par scan numérique pour éliminer la fraude.
+- **Technologies** : React Native, Solidity, Python, IPFS.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8ef8dc67-0999-4c17-a5a2-e47a507f0a40" width="400" style="border-radius: 10px;" />
-</p>
-
-###  Classification & KNN
-Développement de systèmes de recommandation basés sur l'algorithme **K-Nearest Neighbors** appliqués à des datasets réels.
-
----
-
-## 🛠️ Stack Technique
-
-**Data Science & IA** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Optimisation** ![Excel](https://img.shields.io/badge/Excel%20Solver-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Math](https://img.shields.io/badge/Recherche%20Opérationnelle-blue?style=for-the-badge)
-
-**Développement & Web3** ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Blockchain](https://img.shields.io/badge/Blockchain-Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
-
----
-
-## 🌐 Architecture Mobile
-Conception d'interfaces modernes et fluides sous **React Native** pour des applications orientées services.
-
-<p align="center">
-  <img src="images/mobile_ui.png" width="250" />
+  <img src="https://github.com/user-attachments/assets/8ef8dc67-0999-4c17-a5a2-e47a507f0a40" width="80%" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);" />
 </p>
 
 ---
 
-*Dernière mise à jour : Février 2026. Ouverte aux opportunités de stage et collaborations.*
-](https://zakisofia.github.io/)
+### 🧠 Recherche Opérationnelle & Optimisation
+**Aide à la Décision & Modélisation Mathématique**
+Application de modèles mathématiques pour maximiser l'efficacité des ressources en entreprise.
+- **Allocation RH** : Optimisation des plannings et affectations.
+- **Supply Chain** : Réduction des coûts logistiques et gestion des stocks via la programmation linéaire.
+- **Outils** : Excel Solver, PuLP (Python), Méthode du Simplexe.
+
+<p align="center">
+  <img src="images/solver_results.png" width="80%" style="border-radius: 8px;" alt="Résultats Optimisation" />
+</p>
+
+---
+
+### 📊 Classification Intelligente (KNN)
+**Système de Recommandation & Data Mining**
+Développement d'un algorithme de classification "K-Nearest Neighbors" pour l'analyse de données réelles.
+- Analyse de patterns et regroupement de données similaires pour la prise de décision automatique.
+- Visualisation de données complexe via Matplotlib/Seaborn.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f66755c7-93a3-4b36-8e90-705776942a37" width="80%" style="border-radius: 10px;" />
+</p>
+
+---
+
+## 🛠️ Expertise Technique
+
+| Catégorie | Compétences |
+| :--- | :--- |
+| **IA & Data** | Python, Scikit-learn, XGBoost, Pandas |
+| **Optimisation** | Modélisation linéaire, RO, Excel Solver |
+| **Web3 & Dev** | Blockchain Polygon, React Native, Solidity |
+
+---
+
+## 🌐 Design & Interface (Mobile)
+Conception d'interfaces utilisateurs (UI/UX) pour applications mobiles, mettant l'accent sur la simplicité et l'efficacité du parcours utilisateur.
+
+<p align="center">
+  <img src="images/mobile_ui.png" width="30%" style="border-radius: 15px; border: 2px solid #eee;" />
+</p>
+
+---
+
+## 📫 Contact
+Je suis ouverte aux opportunités de stages et aux collaborations sur des projets innovants.
+**Localisation :** Meknès, Maroc / Hybride

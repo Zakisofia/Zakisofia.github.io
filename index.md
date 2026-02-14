@@ -1,75 +1,63 @@
 # Safia Zaki
-### 🎓 Étudiante en Systèmes Intelligents & Recherche Opérationnelle
-*Spécialisée en IA, Optimisation & Technologies Web3*
+> **Étudiante en Systèmes Intelligents & Recherche Opérationnelle** > *Spécialiste en Modélisation Mathématique et IA appliquée.*
 
 [🔗 LinkedIn](https://www.linkedin.com/in/safia-zaki-373846209/) | [🐙 GitHub](https://github.com/zakisofia) | [📧 Email](mailto:zakisofia29@gmail.com)
 
 ---
 
-## 👩‍🎓 Profil
-Passionnée par l'intersection entre les **mathématiques décisionnelles** et le **développement technologique**, je crée des solutions intelligentes pour résoudre des problèmes complexes d'optimisation et de transparence de données.
+## 🛠 Expertise Technique
+
+**IA & Data** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-black?style=flat-square) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Optimisation & Mathématiques** ![Excel](https://img.shields.io/badge/Excel%20Solver-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![RO](https://img.shields.io/badge/Recherche--Opérationnelle-blue?style=flat-square) ![PuLP](https://img.shields.io/badge/PuLP-Optimization-lightgrey?style=flat-square)
+
+**Web3 & Mobile** ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=flat-square&logo=polygon&logoColor=white)
 
 ---
 
-## 🚀 Projets Majeurs
+## 🚀 Projets Sélectionnés
 
-### 🏠 Homio (ex-ImmoChain)
-**Solution Immobilière Sécurisée (IA & Blockchain)**
-Plateforme innovante dédiée au marché de Meknès visant à restaurer la confiance entre agents et acheteurs.
-- **Intelligence Artificielle** : Intégration d'un modèle **XGBoost** pour prédire le prix réel du marché au m² selon le quartier.
-- **Blockchain (Polygon)** : Implémentation de scores d'agents immuables et d'un système de validation de visites par scan numérique pour éliminer la fraude.
-- **Technologies** : React Native, Solidity, Python, IPFS.
+### 01. Homio — Intelligence Immobilière
+Système prédictif pour le marché de Meknès sécurisé par la blockchain.
+* **IA** : Prédiction de prix via modèle XGBoost.
+* **Sécurité** : Protocole de réputation on-chain et validation de visite.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8ef8dc67-0999-4c17-a5a2-e47a507f0a40" width="80%" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);" />
+  <img src="https://github.com/user-attachments/assets/8ef8dc67-0999-4c17-a5a2-e47a507f0a40" width="85%" style="border-radius:10px; border: 1px solid #eee;">
 </p>
 
 ---
 
-### 🧠 Recherche Opérationnelle & Optimisation
-**Aide à la Décision & Modélisation Mathématique**
-Application de modèles mathématiques pour maximiser l'efficacité des ressources en entreprise.
-- **Allocation RH** : Optimisation des plannings et affectations.
-- **Supply Chain** : Réduction des coûts logistiques et gestion des stocks via la programmation linéaire.
-- **Outils** : Excel Solver, PuLP (Python), Méthode du Simplexe.
+### 02. Recherche Opérationnelle (RO)
+Modélisation mathématique pour l'aide à la décision stratégique.
+* **Projets** : Allocation RH, Gestion de Supply Chain, Optimisation de production.
+* **Impact** : Maximisation de profit et réduction des coûts logistiques.
 
 <p align="center">
-  <img src="images/solver_results.png" width="80%" style="border-radius: 8px;" alt="Résultats Optimisation" />
+  <img src="images/solver_results.png" width="85%" style="border-radius:10px;">
 </p>
 
 ---
 
-### 📊 Classification Intelligente (KNN)
-**Système de Recommandation & Data Mining**
-Développement d'un algorithme de classification "K-Nearest Neighbors" pour l'analyse de données réelles.
-- Analyse de patterns et regroupement de données similaires pour la prise de décision automatique.
-- Visualisation de données complexe via Matplotlib/Seaborn.
+### 03. Classification & KNN
+Moteur de classification de données basé sur la proximité (K-Nearest Neighbors).
+* Analyse de datasets complexes et visualisation des frontières de décision.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f66755c7-93a3-4b36-8e90-705776942a37" width="80%" style="border-radius: 10px;" />
+  <img src="https://github.com/user-attachments/assets/f66755c7-93a3-4b36-8e90-705776942a37" width="85%" style="border-radius:10px;">
 </p>
 
 ---
 
-## 🛠️ Expertise Technique
-
-| Catégorie | Compétences |
-| :--- | :--- |
-| **IA & Data** | Python, Scikit-learn, XGBoost, Pandas |
-| **Optimisation** | Modélisation linéaire, RO, Excel Solver |
-| **Web3 & Dev** | Blockchain Polygon, React Native, Solidity |
-
----
-
-## 🌐 Design & Interface (Mobile)
-Conception d'interfaces utilisateurs (UI/UX) pour applications mobiles, mettant l'accent sur la simplicité et l'efficacité du parcours utilisateur.
+## 📱 UI/UX Design (Mobile)
+Focus sur la création d'interfaces ergonomiques pour applications de services.
 
 <p align="center">
-  <img src="images/mobile_ui.png" width="30%" style="border-radius: 15px; border: 2px solid #eee;" />
+  <img src="images/mobile_ui.png" width="30%" style="border-radius:20px;">
 </p>
 
 ---
 
-## 📫 Contact
-Je suis ouverte aux opportunités de stages et aux collaborations sur des projets innovants.
-**Localisation :** Meknès, Maroc / Hybride
+## 📧 Contact
+Ouverte aux opportunités de stages et projets collaboratifs.
+**Meknès, Maroc**

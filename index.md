@@ -1,65 +1,71 @@
-# Portfolio Professionnel
+# Portfolio Académique
 ## Intelligence Artificielle & Recherche Opérationnelle
 
-Expert en mathématiques décisionnelles, j'accompagne les organisations dans la résolution de problèmes complexes par l'optimisation des ressources et l'analyse prédictive.
+Étudiante en **Systèmes Intelligents et Recherche Opérationnelle**, inscrite dans un **parcours d’excellence**, je développe des projets académiques et exploratoires autour de l’**optimisation**, de l’**aide à la décision** et de l’**intelligence artificielle**.
+
+Ce portfolio présente les **domaines de mes études** ainsi que des **projets appliqués** réalisés dans un cadre académique et personnel.
 
 ---
 
 ## Recherche Opérationnelle & Optimisation
-*Modélisation mathématique pour l'efficacité opérationnelle.*
+*Modélisation mathématique pour l’aide à la décision et l’efficacité opérationnelle.*
 
-| Projet | Objectif Stratégique | Indicateur de Performance |
+| Projet | Objectif académique | Résultat obtenu |
 | :--- | :--- | :--- |
-| **Allocation RH** | Optimisation des coûts de recrutement | Affectation optimale des talents |
-| **Supply Chain** | Flux logistiques & Gestion des stocks | Réduction des ruptures de stock |
-| **Transport** | Optimisation multi-échelons | Réduction des frais de port (3200 DH) |
-| **Production** | Planification de mix-produit | Maximisation du profit (17k DH) |
+| **Allocation RH** | Optimisation de l’affectation des ressources | Solution optimale d’allocation |
+| **Supply Chain** | Gestion des flux et des stocks | Réduction des ruptures |
+| **Transport** | Optimisation multi-échelons | Diminution des coûts logistiques |
+| **Production** | Planification du mix-produit | Maximisation du profit |
 
-### Résultats de Modélisation (Solver & Graphiques)
+### Résultats de modélisation (Solver & Graphiques)
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Insérer+Capture+Excel+Solver+Ici" width="100%" style="border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-  <br><em>Visualisation des flux logistiques et résultats de l'optimisation mathématique.</em>
+  <img src="https://via.placeholder.com/800x400?text=Insérer+Capture+Excel+Solver+Ici" width="100%" />
+  <br><em>Résultats issus de modèles d’optimisation mathématique.</em>
 </p>
 
 ---
 
 ## Intelligence Artificielle & Machine Learning
-*Modélisation prédictive et traitement de données.*
+*Apprentissage automatique et analyse de données.*
 
-### ImmoChain IA
-Estimation de la valeur immobilière basée sur des algorithmes **XGBoost**. Le modèle analyse les variables pour fournir une prédiction de prix fiable intégrée dans une interface mobile.
+### ImmoChain – Module IA
+Projet académique portant sur l’**estimation de la valeur immobilière** à l’aide de modèles de **Machine Learning (XGBoost)**.  
+Le système analyse différentes variables afin de produire des **prédictions fiables**, intégrées dans une interface applicative.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8ef8dc67-0999-4c17-a5a2-e47a507f0a40" width="450" style="border-radius: 12px; border: 1px solid #eee; box-shadow: 0 10px 20px rgba(0,0,0,0.1);" />
+  <img src="https://github.com/user-attachments/assets/8ef8dc67-0999-4c17-a5a2-e47a507f0a40" width="450" />
 </p>
 
 ---
 
 ### Systèmes de Classification & KNN
-Développement de moteurs de recommandation et de segmentation de données.
+Développement de **systèmes de classification et de recommandation**, basés sur l’algorithme **K-Nearest Neighbors (KNN)**, appliqués à des jeux de données réels.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f66755c7-93a3-4b36-8e90-705776942a37" width="500" style="border-radius: 8px;" />
+  <img src="https://github.com/user-attachments/assets/f66755c7-93a3-4b36-8e90-705776942a37" width="500" />
 </p>
 
 ---
 
-## Architecture Web3 & Mobile
-Conception d'écosystèmes sécurisés et d'interfaces modernes.
+## Architecture Web & Mobile
+*Découverte des technologies modernes et des architectures applicatives.*
 
-* **Blockchain :** Mise en œuvre de scores de confiance sur le réseau **Polygon**.
-* **Développement :** Prototypage UI/UX complet sous **React Native** (13 écrans fonctionnels).
+- **Blockchain :** Exploration de mécanismes de confiance et de traçabilité.
+- **Mobile :** Prototypage UI/UX sous **React Native** (plusieurs écrans fonctionnels).
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x300?text=Insérer+Capture+Interface+Mobile+Ici" width="70%" style="border-radius: 10px;" />
+  <img src="https://via.placeholder.com/600x300?text=Interface+Mobile" width="70%" />
 </p>
 
 ---
 
 ## Stack Technique
-* **Analytique :** Python (XGBoost, Scikit-Learn, Pandas).
-* **Optimisation :** Excel Solver, PuLP, Simplexe.
-* **Architecture :** React Native, Solidity, MetaMask.
+- **Data & IA :** Python, Scikit-learn, XGBoost, Pandas  
+- **Optimisation :** Excel Solver, PuLP, Méthode du simplexe  
+- **Développement :** React Native, notions de Blockchain
 
 ---
-> **Contact :** Pour toute demande de démonstration technique ou consultation, veuillez me contacter via mon profil GitHub.
+
+> 📫 **Contact**  
+> Portfolio académique ouvert aux **stages**, **projets universitaires** et **collaborations pédagogiques**.
+

@@ -2,7 +2,7 @@
 ### Étudiante en Systèmes Intelligents & Recherche Opérationnelle  
 *Parcours d’excellence – IA, Optimisation & Aide à la décision*
 
-🔗 [GitHub](https://github.com/zakisofia) | [LinkedIn](https://linkedin.com/) | [Portfolio](https://zakisofia.github.io)
+🔗 [GitHub](https://github.com/zakisofia) | [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/safia-zaki-373846209/)) | [Portfolio](https://zakisofia.github.io)
 
 ---
 
@@ -82,6 +82,4 @@ Développement de **systèmes de classification et de recommandation**, basés s
 Portfolio académique ouvert aux **stages**, **projets universitaires** et  
 **collaborations pédagogiques**.
 
-📧 Contact via GitHub ou LinkedIn
-Linkedin: https://www.linkedin.com/in/safia-zaki-373846209/
-GitHub: https://github.com/Zakisofia
+

@@ -1,37 +1,44 @@
+---
+layout: default
+title: Accueil
+---
+
 # Safia Zaki
 ### 🎓 Étudiante en Systèmes Intelligents & Recherche Opérationnelle
-*Passionnée par l'IA, l'optimisation et la confiance numérique.*
+*IA, Optimisation & Confiance Numérique*
 
 [🔗 LinkedIn](https://www.linkedin.com/in/safia-zaki-373846209/) | [🐙 GitHub](https://github.com/zakisofia) | [📧 Contact](mailto:zakisofia29@gmail.com)
 
 ---
 
-## ✨ Domaines d'intérêt
+## 🔬 Expertise Académique & Vision
 
-Plutôt que de simples compétences techniques, voici ce qui motive mon parcours académique et mes recherches :
+Plutôt que de simples compétences techniques, voici les piliers de mon parcours :
 
-* **Intelligence Artificielle & Prédiction :** Analyser des données complexes pour anticiper les tendances du marché.
-* **Optimisation des Systèmes :** Modéliser des problèmes mathématiques pour une prise de décision efficace.
-* **Technologies Blockchain :** Explorer les protocoles décentralisés pour garantir la transparence et la sécurité des échanges.
+* **Intelligence Artificielle & Prédiction :** Analyse de données complexes via des modèles de Machine Learning pour l'aide à la décision.
+* **Recherche Opérationnelle :** Modélisation mathématique et optimisation de flux pour maximiser l'efficacité des systèmes.
+* **Confiance Numérique :** Exploration de la Blockchain et des protocoles décentralisés pour la sécurité des échanges.
 
 ---
 
-## 🚀 Projets Réalisés
+## 🚀 Projets de Recherche & Réalisations
 
 ### 🏠 Homio — Écosystème Immobilier Sécurisé
-**Résumé du projet :** L'objectif était de résoudre le manque de transparence du marché immobilier à Meknès. J'ai développé une solution combinant l'IA (XGBoost) pour l'estimation des prix justes et la Blockchain (Polygon) pour créer des scores d'agents immuables. Le système protège les professionnels via une validation de visite par scan numérique.
+**Concept :** Résolution du manque de transparence immobilière à Meknès.
+* **Technos :** IA (XGBoost) pour l'estimation de prix + Blockchain (Polygon) pour la réputation immuable.
+* **Innovation :** Système de validation de visites par scan numérique pour protéger les professionnels.
 
-**Résultat visuel :**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8ef8dc67-0999-4c17-a5a2-e47a507f0a40" width="85%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <img src="https://github.com/user-attachments/assets/8ef8dc67-0999-4c17-a5a2-e47a507f0a40" width="85%" style="border-radius: 8px; border: 1px solid #eee;">
 </p>
 
 ---
 
 ### 🧠 Modélisation & Recherche Opérationnelle
-**Résumé du projet :** Application de la programmation linéaire et de l'algorithme du Simplexe pour optimiser des ressources en entreprise. Ce projet couvre l'allocation de personnel (RH), la gestion des flux en Supply Chain et la planification de production pour maximiser les profits sous contraintes.
+**Optimisation sous contraintes :** Implémentation de l'algorithme du **Simplexe** pour la gestion des ressources en entreprise.
+* **Applications :** Allocation RH, Supply Chain et planification de production.
+* **Objectif :** Maximisation du profit via la programmation linéaire.
 
-**Résultat visuel :**
 <p align="center">
   <img src="images/solver_results.png" width="85%" style="border-radius: 8px;">
 </p>
@@ -39,17 +46,17 @@ Plutôt que de simples compétences techniques, voici ce qui motive mon parcours
 ---
 
 ### 📊 Classification Intelligente (KNN)
-**Résumé du projet :** Mise en œuvre de l'algorithme des K-plus proches voisins (KNN) pour la classification automatique de données. Ce projet inclut un travail approfondi sur la préparation des données (Cleaning/Scaling) et la visualisation des frontières de décision.
+**Machine Learning :** Développement d'un classifieur $K$-Nearest Neighbors pour la catégorisation automatique.
+* **Focus :** Nettoyage de données (Scaling/Cleaning) et visualisation des frontières de décision.
 
-**Résultat visuel :**
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f66755c7-93a3-4b36-8e90-705776942a37" width="85%" style="border-radius: 8px;">
 </p>
 
 ---
 
-## 🌐 Architecture & Design Mobile
-Conception d'interfaces sous **React Native** centrées sur l'utilisateur, alliant esthétique et performance technique.
+## 📱 Architecture & Design Mobile
+Conception d'interfaces sous **React Native** centrées sur l'expérience utilisateur (UX/UI).
 
 <p align="center">
   <img src="images/mobile_ui.png" width="35%" style="border-radius: 15px; border: 1px solid #ddd;">
@@ -57,4 +64,5 @@ Conception d'interfaces sous **React Native** centrées sur l'utilisateur, allia
 
 ---
 
-*Meknès, Maroc 🇲🇦 | Dernière mise à jour : Février 2026*
+> **Localisation :** Meknès, Maroc 🇲🇦  
+> **Dernière mise à jour :** Février 2026

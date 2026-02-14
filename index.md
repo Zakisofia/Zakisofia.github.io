@@ -1,85 +1,60 @@
-# Zakisofia
-### Étudiante en Systèmes Intelligents & Recherche Opérationnelle  
-*Parcours d’excellence – IA, Optimisation & Aide à la décision*
+# Safia Zaki
+### 🎓 Étudiante en Systèmes Intelligents & Recherche Opérationnelle
+*Passionnée par l'IA, l'optimisation et la confiance numérique.*
 
-🔗 [GitHub](https://github.com/zakisofia) | [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/safia-zaki-373846209/)) | [Portfolio](https://zakisofia.github.io)
-
----
-
-## 👩‍🎓 À propos
-
-Étudiante en **Systèmes Intelligents et Recherche Opérationnelle**, je développe des projets académiques et personnels autour de la  
-**modélisation mathématique**, de l’**intelligence artificielle** et de l’**optimisation des ressources**.
-
-Ce portfolio présente mes **domaines d’études** ainsi que des **projets appliqués**, illustrant mon intérêt pour l’aide à la décision et les systèmes intelligents.
+[🔗 LinkedIn](https://www.linkedin.com/in/safia-zaki-373846209/) | [🐙 GitHub](https://github.com/zakisofia) | [📧 Contact](mailto:zakisofia29@gmail.com)
 
 ---
 
-## 🧠 Recherche Opérationnelle & Optimisation
-*Modélisation mathématique pour l’aide à la décision et l’efficacité opérationnelle.*
+## ✨ Domaines d'intérêt
 
-| Projet | Objectif académique | Résultat obtenu |
-| :--- | :--- | :--- |
-| **Allocation RH** | Optimisation de l’affectation des ressources | Solution optimale |
-| **Supply Chain** | Gestion des flux et des stocks | Réduction des ruptures |
-| **Transport** | Optimisation multi-échelons | Diminution des coûts |
-| **Production** | Planification du mix-produit | Maximisation du profit |
+Plutôt que de simples compétences techniques, voici ce qui motive mon parcours académique et mes recherches :
 
-### 📊 Résultats de modélisation
+* **Intelligence Artificielle & Prédiction :** Analyser des données complexes pour anticiper les tendances du marché.
+* **Optimisation des Systèmes :** Modéliser des problèmes mathématiques pour une prise de décision efficace.
+* **Technologies Blockchain :** Explorer les protocoles décentralisés pour garantir la transparence et la sécurité des échanges.
+
+---
+
+## 🚀 Projets Réalisés
+
+### 🏠 Homio — Écosystème Immobilier Sécurisé
+**Résumé du projet :** L'objectif était de résoudre le manque de transparence du marché immobilier à Meknès. J'ai développé une solution combinant l'IA (XGBoost) pour l'estimation des prix justes et la Blockchain (Polygon) pour créer des scores d'agents immuables. Le système protège les professionnels via une validation de visite par scan numérique.
+
+**Résultat visuel :**
 <p align="center">
-  <img src="images/solver_results.png" width="85%" />
-  <br><em>Résultats issus de modèles d’optimisation (Excel Solver).</em>
+  <img src="https://github.com/user-attachments/assets/8ef8dc67-0999-4c17-a5a2-e47a507f0a40" width="85%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 </p>
 
 ---
 
-## 🤖 Intelligence Artificielle & Machine Learning
-*Apprentissage automatique et analyse de données.*
+### 🧠 Modélisation & Recherche Opérationnelle
+**Résumé du projet :** Application de la programmation linéaire et de l'algorithme du Simplexe pour optimiser des ressources en entreprise. Ce projet couvre l'allocation de personnel (RH), la gestion des flux en Supply Chain et la planification de production pour maximiser les profits sous contraintes.
 
-### 🏠 ImmoChain – Module IA
-Projet académique dédié à l’**estimation de la valeur immobilière** à l’aide de modèles de **Machine Learning (XGBoost)**.  
-Le système analyse différentes variables afin de produire des **prédictions fiables**, intégrées dans une interface applicative.
-
+**Résultat visuel :**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8ef8dc67-0999-4c17-a5a2-e47a507f0a40" width="450" />
+  <img src="images/solver_results.png" width="85%" style="border-radius: 8px;">
 </p>
 
 ---
 
-### 📚 Systèmes de Classification & KNN
-Développement de **systèmes de classification et de recommandation**, basés sur l’algorithme  
-**K-Nearest Neighbors (KNN)**, appliqués à des jeux de données réels.
+### 📊 Classification Intelligente (KNN)
+**Résumé du projet :** Mise en œuvre de l'algorithme des K-plus proches voisins (KNN) pour la classification automatique de données. Ce projet inclut un travail approfondi sur la préparation des données (Cleaning/Scaling) et la visualisation des frontières de décision.
 
+**Résultat visuel :**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f66755c7-93a3-4b36-8e90-705776942a37" width="500" />
+  <img src="https://github.com/user-attachments/assets/f66755c7-93a3-4b36-8e90-705776942a37" width="85%" style="border-radius: 8px;">
 </p>
 
 ---
 
-## 🌐 Architecture Web & Mobile
-*Découverte des technologies modernes et des architectures applicatives.*
-
-- **Web :** Interfaces modernes et responsives  
-- **Mobile :** Prototypage UI/UX sous **React Native** (plusieurs écrans fonctionnels)  
-- **Blockchain :** Exploration de mécanismes de confiance et de traçabilité
+## 🌐 Architecture & Design Mobile
+Conception d'interfaces sous **React Native** centrées sur l'utilisateur, alliant esthétique et performance technique.
 
 <p align="center">
-  <img src="images/mobile_ui.png" width="70%" />
+  <img src="images/mobile_ui.png" width="35%" style="border-radius: 15px; border: 1px solid #ddd;">
 </p>
 
 ---
 
-## 🛠️ Stack Technique
-
-- **Data & IA :** Python, Scikit-learn, XGBoost, Pandas  
-- **Optimisation :** Excel Solver, PuLP, Méthode du simplexe  
-- **Développement :** React Native, notions de Blockchain  
-
----
-
-## 📫 Contact & Opportunités
-
-Portfolio académique ouvert aux **stages**, **projets universitaires** et  
-**collaborations pédagogiques**.
-
-
+*Meknès, Maroc 🇲🇦 | Dernière mise à jour : Février 2026*

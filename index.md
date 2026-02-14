@@ -1,8 +1,8 @@
-# Safia Zaki
+[# Safia Zaki
 ###  Étudiante en Systèmes Intelligents & Recherche Opérationnelle
 *Spécialisée en IA, Optimisation & Aide à la décision*
 
-[📧 Me contacter](mailto:votre-email@exemple.com) | [🔗 LinkedIn](https://www.linkedin.com/in/safia-zaki-373846209/) | [🐙 GitHub](https://github.com/zakisofia)
+[📧 Me contacter](mailto:Zakisofia29@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/safia-zaki-373846209/) | [🐙 GitHub](https://github.com/zakisofia)
 
 ---
 
@@ -61,3 +61,4 @@ Conception d'interfaces modernes et fluides sous **React Native** pour des appli
 ---
 
 *Dernière mise à jour : Février 2026. Ouverte aux opportunités de stage et collaborations.*
+](https://zakisofia.github.io/)
